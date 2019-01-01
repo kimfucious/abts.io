@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript on abts.io</title>
+    <link>http://abts.io/categories/javascript/</link>
+    <description>Recent content in Javascript on abts.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 17:16:39 +0700</lastBuildDate>
+    
+	<atom:link href="http://abts.io/categories/javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello Fibonacci</title>
+      <link>http://abts.io/post/hello-world/</link>
+      <pubDate>Tue, 01 Jan 2019 17:16:39 +0700</pubDate>
+      
+      <guid>http://abts.io/post/hello-world/</guid>
+      <description> Hello Fibonacci! 1 2 3 4  function fib(n) { if (n &amp;lt;= 2) return 1 return fib(n-1) + fib(n-2) }   Why is the text all indented and shit?!
+   Fibonacci&amp;#39;s Liber Abaci   </description>
+    </item>
+    
+  </channel>
+</rss>
